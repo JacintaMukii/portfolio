@@ -110,7 +110,7 @@ footer a:hover {
 /* RESUME
 -------------------------------*/
 .resume header::before {
-    background: url(../images/Data\ Analytics\ Wallpapers.jfif) center ;
+    background: url(../images/Data-Driven.jfif) center ;
     background-size: cover;
     content: "";
     display: block;
